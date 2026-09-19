@@ -1,3 +1,6 @@
 /oci-validate-examples
 output
 header.html
+
+# Claude Code developer-local overrides
+.claude/settings.local.json
